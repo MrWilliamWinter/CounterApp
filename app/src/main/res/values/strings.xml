@@ -1,3 +1,15 @@
 <resources>
+    // Names
     <string name="app_name">Box his chops!</string>
+    <string name="team_name_one">The Eubanx</string>
+    <string name="team_name_two">The Brunoz</string>
+
+    // Txt for buttons
+    <string name="face_button">In the face</string>
+    <string name="body_button">Body shot</string>
+    <string name="gut_button">In the gut</string>
+    <string name="reset_button">Start again</string>
+
+    // Number of points to start with
+    <string name="no_score">0</string>
 </resources>
